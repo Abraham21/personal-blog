@@ -26,24 +26,13 @@ module.exports = {
   ],
   author: {
     name: 'Abraham Yepremian',
-    photo: '/profile.jpg',
+    photo: '/photo.jpg',
     bio: 'Software Engineer @ Disney. Interested in full stack development, software scalability, fitness, and finance.',
     contacts: {
-      email: '',
-      facebook: '#',
-      telegram: '#',
-      twitter: '#',
-      github: '#',
-      rss: '',
-      vkontakte: '',
-      linkedin: '#',
-      instagram: '#',
-      line: '',
-      gitlab: '',
-      weibo: '',
-      codepen: '',
-      youtube: '',
-      soundcloud: '',
+      email: 'abeyepremian@gmail.com',
+      github: 'https://github.com/Abraham21',
+      linkedin: 'https://www.linkedin.com/in/ayepremian/',
+      instagram: 'https://www.instagram.com/theabeman/'
     }
   }
 };
