@@ -30,9 +30,20 @@ module.exports = {
     bio: 'Software Engineer @ Disney. Interested in full stack development, software scalability, fitness, and finance.',
     contacts: {
       email: 'abeyepremian@gmail.com',
+      facebook: '#',
+      telegram: '#',
+      twitter: '#',
       github: 'https://github.com/Abraham21',
+      rss: '',
+      vkontakte: '',
       linkedin: 'https://www.linkedin.com/in/ayepremian/',
-      instagram: 'https://www.instagram.com/theabeman/'
+      instagram: 'https://www.instagram.com/theabeman/',
+      line: '',
+      gitlab: '',
+      weibo: '',
+      codepen: '',
+      youtube: '',
+      soundcloud: '',
     }
   }
 };
