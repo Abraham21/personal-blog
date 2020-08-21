@@ -217,6 +217,12 @@ exports[`NotFoundTemplate renders correctly 1`] = `
             </a>
           </li>
         </ul>
+        <a
+          className="contacts__resume-button"
+          href="/abraham-yepremian-resume.pdf"
+        >
+          Resume
+        </a>
       </div>
       <div
         className="copyright"
