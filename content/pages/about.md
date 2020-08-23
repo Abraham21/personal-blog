@@ -1,13 +1,15 @@
 ---
 title: "About me"
 template: "page"
-socialImage: "/media/image-2.jpg"
+socialImage: "/media/grad.jpg"
 ---
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.
+Hello, I am Abraham Yepremian. I am a Software Engineer at Disneyland in Anaheim, CA. I am skilled in full stack development, currently working on guest experiences technology for Disneyland, Walt Disney World, and Disneyland Paris.
 
-![Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.](/media/image-2.jpg)
+![Graduation Photo](/media/grad.jpg)
 
-*Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.*
+I studied computer science at Cal Poly Pomona, where I was President of Computer Science Society and graduated 6 months early as a Magna Cum Laude. I worked through multiple software engineering internships, hackathons, and side-projects throughout this time. Leading Computer Science Society and helping my peers achieve their goals was the most fulfilling activity.
 
-Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus
+I first learned to code in high school through AP Computer Science and soon-after developed a love for creating my own mobile applications and sharing them with friends. Building projects for fun gave me knowledge and experience that proved invaluable when I started college.
+
+As I matured, I've grown more passionate and my focus has shifted towards problem solving. I am eager to use my experience in full stack web development, mobile application development, databases, and blockchain development to build and scale software solutions.
