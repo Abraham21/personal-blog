@@ -13,7 +13,7 @@ type Props = {
 const isActive = ({ isCurrent, href, location }) => {
   const baseMenuStyle = styles['menu__list-item-link'];
   const activeMenuStyle = styles['menu__list-item-link--active'];
-  const activeStyles = '${baseMenuStyle} ${activeMenuStyle}';
+  const activeStyles = `${baseMenuStyle} ${activeMenuStyle}`;
   if (isHomePageOrArticlesPage(href, location)) {
     return { className: activeStyles };
   }
