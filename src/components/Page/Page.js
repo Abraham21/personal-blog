@@ -11,9 +11,8 @@ const Page = ({ title, children }: Props) => {
 
   useEffect(() => {
     const url = new URL(pageRef.current.baseURI);
-    const isNotHomePage = url.pathname !== '/';
-    const isHashHomePage = url.pathname === '/' && url.hash === '#articles';
-    if (isNotHomePage || isHashHomePage) {
+    const isBaseHomePage = url.pathname === '/' && url.hash.length === 0;
+    if (!isBaseHomePage) {
       pageRef.current.scrollIntoView();
     }
   });
