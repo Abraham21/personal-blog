@@ -10,7 +10,11 @@ const Page = ({ title, children }: Props) => {
   const pageRef = useRef();
 
   useEffect(() => {
-    pageRef.current.scrollIntoView();
+    const url = new URL(pageRef.current.baseURI);
+    const isNotHomePage = url.pathname !== '/';
+    const isHashHomePage = url.pathname === '/' && url.hash === '#articles';
+    if (isNotHomePage || isHashHomePage)
+      pageRef.current.scrollIntoView();
   });
 
   return (
