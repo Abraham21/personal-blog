@@ -15,12 +15,12 @@ const isActive = ({ isCurrent, href, location }) => {
   if (isHomePageOrArticlesPage(href, location)) {
     return { className: activeStyle };
   }
-  return isCurrent ? { className: activeStyle } : {}
-}
+  return isCurrent ? { className: activeStyle } : {};
+};
 
 function isHomePageOrArticlesPage(href, location) {
-  const isHomePage = href === "/#articles" && location.pathname === "/";
-  const isArticlesPage = href === "/#articles" && location.hash === "#articles";
+  const isHomePage = href === '/#articles' && location.pathname === '/';
+  const isArticlesPage = href === '/#articles' && location.hash === '#articles';
   return isHomePage || isArticlesPage;
 }
 
