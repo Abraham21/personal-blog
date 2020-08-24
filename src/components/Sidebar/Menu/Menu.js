@@ -11,11 +11,11 @@ type Props = {
 };
 
 const isActive = ({ isCurrent, href, location }) => {
-  const activeStyle = styles['menu__list-item-link--active'];
+  const activeStyles = styles['menu__list-item-link'] + ' ' + styles['menu__list-item-link--active'];
   if (isHomePageOrArticlesPage(href, location)) {
-    return { className: activeStyle };
+    return { className: activeStyles };
   }
-  return isCurrent ? { className: activeStyle } : {};
+  return isCurrent ? { className: activeStyles } : {};
 };
 
 function isHomePageOrArticlesPage(href, location) {
