@@ -11,8 +11,11 @@ const Page = ({ title, children }: Props) => {
 
   useEffect(() => {
     const url = new URL(pageRef.current.baseURI);
+    // prevent autoscrolling to articles when home page is opened directly
     const isBaseHomePage = url.pathname === '/' && url.hash.length === 0;
-    if (!isBaseHomePage) {
+    // support for table of contents in projects page
+    const isTaggedProjectsPage = url.pathname === '/pages/projects' && url.hash.length > 0;
+    if (!isBaseHomePage && !isTaggedProjectsPage) {
       pageRef.current.scrollIntoView();
     }
   });
