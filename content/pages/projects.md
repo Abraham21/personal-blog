@@ -9,8 +9,9 @@ socialImage: "/media/zeitplan-ttr.png"
 + [Zeitplan Daily Planner - Web Application](#zeitplan---daily-planner)
 + [Machine Learning Tinder Bot - Python Program](#machine-learning-tinder-bot)
 + [Vibe - Mobile Application](#vibe---mobile-application)
++ [Hackathon Projects](#hackathon-projects)
 + [Android Applications](#android-applications)
-+ Visit my [LinkedIn](https://www.linkedin.com/in/ayepremian/) and [GitHub](https://github.com/Abraham21) for more!
++ Visit my [GitHub](https://github.com/Abraham21) or [LinkedIn](https://www.linkedin.com/in/ayepremian/) for more!
 
 ## Zeitplan - Daily Planner
 
@@ -33,9 +34,20 @@ For my final project in my machine learning elective, I chose to build a machine
 
 Vibe is a cross-platform social media app for students that helps them plan impromptu local activities with their friends. I built this project with a couple friends in my early college days using React Native, Algolia Search, Node.js, and Firebase.
 
+## Hackathon Projects
+
+[![Hackathon Projects](/media/hackathons.PNG "Hackathon Projects")](https://devpost.com/aayepremian)
+[View Projects](https://devpost.com/aayepremian)
+
+Throughout college, I participated in multiple hackathons. Aside from the networking benefits, hackathons served as a great way to improve my software development and presentation skills. Building a software product in one weekend can be quite hectic!
+
 ## Android Applications
 
 [![Android Applications](/media/android.PNG "Android Applications")](https://play.google.com/store/apps/developer?id=Abraham+Yepremian)
 [View Apps on Google Play](https://play.google.com/store/apps/developer?id=Abraham+Yepremian)
 
 I developed many Android apps while learning how to code during my junior and senior years of high school. I published all of my apps in excitement to share with my friends. These apps remain on the store today and some sport a healthy number of users. My favorites are [A to B - Schedule Your Tasks](https://play.google.com/store/apps/details?id=tk.abestudying.atob), [Flappy Monkey](https://play.google.com/store/apps/details?id=tk.abestudying.fartingmonkey), and the [Texas Hold'em Expected Value Calculator](https://play.google.com/store/apps/details?id=tk.abestudying.expectedvaluecalculator).
+
+---
+
+Want more? Check out my [GitHub](https://github.com/Abraham21) or my [LinkedIn](https://www.linkedin.com/in/ayepremian/) projects section!
