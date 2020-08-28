@@ -9,6 +9,7 @@ socialImage: "/media/zeitplan-ttr.png"
 + [Zeitplan Daily Planner - Web Application](#zeitplan---daily-planner)
 + [Machine Learning Tinder Bot - Python Program](#machine-learning-tinder-bot)
 + [Vibe - Mobile Application](#vibe---mobile-application)
++ [Android Applications](#android-applications)
 + Visit my [LinkedIn](https://www.linkedin.com/in/ayepremian/) and [GitHub](https://github.com/Abraham21) for more!
 
 ## Zeitplan - Daily Planner
@@ -31,3 +32,10 @@ For my final project in my machine learning elective, I chose to build a machine
 [View Source Code](https://github.com/project-vibe/vibe), [Watch Demo](https://youtu.be/V1bC-v58Few)
 
 Vibe is a cross-platform social media app for students that helps them plan impromptu local activities with their friends. I built this project with a couple friends in my early college days using React Native, Algolia Search, Node.js, and Firebase.
+
+## Android Applications
+
+[![Android Applications](/media/android.PNG "Android Applications")](https://play.google.com/store/apps/developer?id=Abraham+Yepremian)
+[View Apps on Google Play](https://play.google.com/store/apps/developer?id=Abraham+Yepremian)
+
+I developed many Android apps while learning how to code during my junior and senior years of high school. I published all of my apps in excitement to share with my friends. These apps remain on the store today and some sport a healthy number of users. My favorites are [A to B - Schedule Your Tasks](https://play.google.com/store/apps/details?id=tk.abestudying.atob), [Flappy Monkey](https://play.google.com/store/apps/details?id=tk.abestudying.fartingmonkey), and the [Texas Hold'em Expected Value Calculator](https://play.google.com/store/apps/details?id=tk.abestudying.expectedvaluecalculator).
