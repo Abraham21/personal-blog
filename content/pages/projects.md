@@ -8,6 +8,7 @@ socialImage: "/media/zeitplan-ttr.png"
 
 + [Zeitplan Daily Planner - Web Application](#zeitplan---daily-planner)
 + [Machine Learning Tinder Bot - Python Program](#machine-learning-tinder-bot)
++ [Vibe - Mobile Application](#vibe---mobile-application)
 + Visit my [LinkedIn](https://www.linkedin.com/in/ayepremian/) and [GitHub](https://github.com/Abraham21) for more!
 
 ## Zeitplan - Daily Planner
@@ -18,8 +19,15 @@ socialImage: "/media/zeitplan-ttr.png"
 Zeitplan is an all in one productivity tool with reminders, daily scheduling, logs, and a Pomodoro timer for efficiency. I cofounded this project with classmates at CPP and lead development with the MEAN technology stack. We built it as a progressive web app with a mobile first design and we deployed it on AWS.
 
 ## Machine Learning Tinder Bot
+
 [![ML Research Poster](/media/ml-poster.png "ML Research Poster")](https://github.com/Abraham21/tinder-ml-bot/blob/master/MLPoster.pdf)
 [View Poster](https://github.com/Abraham21/tinder-ml-bot/blob/master/MLPoster.pdf), [View Source Code](https://github.com/Abraham21/tinder-ml-bot), [Watch Demo](https://youtu.be/476KFv_YhzM)
 
 For my final project in my machine learning elective, I chose to build a machine learning model to predict beauty in order to automate online dating. Using Python and [Keras](https://keras.io/), I trained a machine learning model that ranks facial beauty using the [SCUT-FBP500 dataset](https://github.com/HCIILAB/SCUT-FBP5500-Database-Release) from the South China University of Technology. Using Python and an [unofficial Tinder API](https://github.com/charliewolf/pynder), my program detected faces from Tinder images and fed them into my convolutional neural network. If the model gave a good score, the bot would "swipe right" or like the person. I ran this bot overnight and it swiped on thousands of people, quickly netting me over 100 likes. I have since decommisioned this bot because I found it immoral, but I learned a ton building it and it proved to be a short term solution to automating online dating.
 
+## Vibe - Mobile Application
+
+[![Vibe Screenshots](/media/vibe.PNG "Vibe Screenshots")](https://github.com/project-vibe/vibe)
+[View Source Code](https://github.com/project-vibe/vibe), [Watch Demo](https://youtu.be/V1bC-v58Few)
+
+Vibe is a cross-platform social media app for students that helps them plan impromptu local activities with their friends. I built this project with a couple friends in my early college days using React Native, Algolia Search, Node.js, and Firebase.
