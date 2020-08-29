@@ -11,7 +11,6 @@ socialImage: "/media/zeitplan-ttr.png"
 + [Vibe - Mobile Application](#vibe---mobile-application)
 + [Hackathon Projects](#hackathon-projects)
 + [Android Applications](#android-applications)
-+ Visit my [GitHub](https://github.com/Abraham21) or [LinkedIn](https://www.linkedin.com/in/ayepremian/) for more!
 
 ## Zeitplan - Daily Planner
 
