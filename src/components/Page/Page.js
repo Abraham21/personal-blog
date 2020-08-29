@@ -14,7 +14,7 @@ const Page = ({ title, children }: Props) => {
     // prevent autoscrolling to articles when home page is opened directly
     const isBaseHomePage = url.pathname === '/' && url.hash.length === 0;
     // support for table of contents in projects page
-    const isTaggedProjectsPage = url.pathname === '/pages/projects' && url.hash.length > 0;
+    const isTaggedProjectsPage = url.pathname.startsWith('/pages/projects', 0) && url.hash.length > 0;
     if (!isBaseHomePage && !isTaggedProjectsPage) {
       pageRef.current.scrollIntoView();
     }
