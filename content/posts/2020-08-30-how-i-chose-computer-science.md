@@ -2,8 +2,8 @@
 template: post
 title: How I Chose Computer Science
 slug: why-software-engineering
-draft: true
-date: 2020-08-30T00:02:29.340Z
+draft: false
+date: 2020-08-30T20:21:26.395Z
 description: I detail how I came to the decision of choosing computer science as
   my college major, describing my involvement with software from childhood to
   high school.
