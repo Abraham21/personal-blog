@@ -2,7 +2,7 @@
 template: post
 title: Guide to Securing Your Online Accounts
 slug: cybersecurity-guide
-draft: true
+draft: false
 date: 2020-08-31T03:58:32.882Z
 description: I provide actionable steps for drastically improving your online security.
 category: Cybersecurity
@@ -50,4 +50,10 @@ Hardware security keys, such as the YubiKey or Google's Titan Keys, are the safe
 
 If you are serious about your security, I recommend you purchase a [2 pack of the YubiKey 5 NFC](https://www.yubico.com/product/yubikey-5-nfc-pack-of-2) as they will work with both your mobile device and computer. Moreover, it will allow you to use the [Yubico Authenticator](https://www.yubico.com/products/services-software/download/yubico-authenticator/) for websites where hardware security keys are not supported yet. The 2FA codes will be living offline on the physical devices, impenetrable by hackers. These investments into your security can prevent massive headache and loss later down the line.
 
-![YubiKey 5 NFC](/media/yubikey.jpg "YubiKey 5 NFC")
+[![YubiKey 5 NFC](/media/yubikey.jpg "YubiKey 5 NFC")](https://www.yubico.com/product/yubikey-5-nfc-pack-of-2)
+
+## Protecting Your Email
+
+Securing your email is extremely important since gaining access to your email would effectively give access to all associated accounts via password resets. If you are using gmail, I highly recommend you use your 2 YubiKeys from earlier to join [Google's advanced protection program](https://landing.google.com/advancedprotection/). Now, gaining access to your email would require your hardware security key making it virtually impossible for anyone but you to access your account. The drawback is that if you lose both keys, you will be locked out of your gmail for a few days until Google can verify the account belongs to you.
+
+Moreover, a good security practice is to have or create a second email address that you never share with anyone. You will use this account privately for financial or sensitive accounts. Doing this makes you a much harder target for hackers since your financial account emails will not be publicly known. For your second account, I would recommend to create another gmail account setup with the advanced protection program. You can also look into the Swiss based ProtonMail if privacy is extremely important to you, but they do not natively support hardware keys yet.
