@@ -62,8 +62,22 @@ Moreover, a good security practice is to create a second email address that you 
 
 ## Financial Information
 
-If you have used credit before the Equifax breach, your SSN and personal information is likely out there somewhere. You can check if you were impacted by the Equifax breach by following the instructions [here on the FTC gov website](https://www.ftc.gov/enforcement/cases-proceedings/refunds/equifax-data-breach-settlement#FAQ10). If you have no immediate plans to use your credit, you should freeze your credit with the 3 major credit bureaus (Equifax, Experian, and Transunion) to help protect yourself from identity theft. If you need to use your credit, you can unfreeze it just as easily.
+If you have used credit before the Equifax breach, your SSN and personal information is likely out there somewhere. You can check if you were impacted by the Equifax breach by following the instructions [here on the FTC gov website](https://www.ftc.gov/enforcement/cases-proceedings/refunds/equifax-data-breach-settlement#FAQ10). If you have no immediate plans to use your credit, you should freeze your credit with the 3 major credit bureaus (Equifax, Experian, and Transunion) to help protect yourself from identity theft. If you need to use your credit after freezing, you can unfreeze it just as easily.
 
 Regarding payment cards, spending on credit cards should be preferred to spending on debit cards because credit cards generally have better protections. Moreover, you should consider setting up monitoring on your credit cards to receive text messages whenever there is a purchase made. This can help you catch fraudulent transactions in real time.
 
 For preventing social engineering, you can also consider setting up a challenge or required response for phone calls with your bank. Furthermore, choose security questions that cannot easily be discovered by searching you online.
+
+## General Device Security
+
+For your mobile device, ensure you have setup authentication (face ID, fingerprint, passcode, pattern, etc) for device access and for each of your financial / sensitive applications. You should also only install applications from trusted sources.
+
+For PCs, be careful about websites you visit and files you download. Moreover, you should use an anti-virus software such as Windows Defender, BitDefender, Avira, or Malwarebytes.
+
+Watch out for phishing scams when browsing the web or checking emails. If you get a suspicious email, check the sender address for a clue. Be careful not to click any links or download any attachments if you suspect an email for phishing.  
+In short, when browsing the web and you feel suspicion, check the web url for spoofing and check if the site has HTTPS enabled. Keep in mind that many phishing websites now have SSL / HTTPS enabled, so you must carefully check the urls.
+
+Moreover, keep in mind that using public WiFi opens you up to security exploits when you browse on non-secure websites (no SSL/TLS/HTTPS). To help prevent data interception and peace of mind when using public WiFi, consider using a VPN. A VPN is a virtual private network that encrypts and masks your data as it moves from one place to another.
+
+Lastly, keep your software updated and your data backed up.
+
