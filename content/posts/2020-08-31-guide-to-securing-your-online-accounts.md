@@ -77,7 +77,7 @@ For PCs, be careful about websites you visit and files you download. Moreover, y
 Watch out for phishing scams when browsing the web or checking emails. If you get a suspicious email, check the sender address for a clue. Be careful not to click any links or download any attachments if you suspect an email for phishing.\
 In short, when browsing the web and you feel suspicion, check the web url for spoofing and check if the site has HTTPS enabled. Keep in mind that many phishing websites now have SSL / HTTPS enabled, so you must carefully check the urls.
 
-Moreover, keep in mind that using public WiFi opens you up to security exploits when you browse on non-secure websites (no SSL/TLS/HTTPS). To help prevent data interception and peace of mind when using public WiFi, consider using a VPN. A VPN is a virtual private network that encrypts and masks your data as it moves from one place to another.
+Moreover, keep in mind that using public WiFi opens you up to security exploits when you browse on non-secure websites (no SSL/TLS/HTTPS). To help prevent data interception and gain peace of mind when using public WiFi, consider using a VPN. A VPN is a virtual private network that encrypts and masks your data as it moves from one place to another.
 
 Lastly, keep your software updated and your data backed up.
 
@@ -87,8 +87,8 @@ Lastly, keep your software updated and your data backed up.
 2. Get a pair of hardware security keys (the extra will be a backup).
 3. Create a private email address for financial/sensitive purposes. Setup the advanced protection program if you are using gmail.
 4. Setup a password manager such as Bitwarden. Setup your hardware security keys as 2FA if you can get Bitwarden premium or if your password manager allows it.
-5. Use the password manager to generate new passwords for all of your accounts except your emails, computer password, and password manager itself.
-6. Setup your private email address with any financial/sensitive accounts (banks, brokerages, credit bureaus, etc).
+5. Use the password manager to generate and store new passwords for all of your accounts except your emails, computer password, and password manager itself.
+6. Setup your private email address with any financial/sensitive accounts (banks, brokerages, credit bureaus, password manager, etc).
 7. Turn on 2FA wherever possible, preferably using hardware security keys. Consider adding login alerts as well.
 8. Turn on notification alerts for any credit card or bank transactions, as well as credit changes.
 9. Ensure your mobile device and financial apps have some form of authentication for increased security.
