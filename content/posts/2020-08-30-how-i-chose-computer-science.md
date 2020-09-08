@@ -12,6 +12,7 @@ tags:
   - Software Engineering
   - Learning
   - Life
+socialImage: "/media/ohno.PNG"
 ---
 ## Childhood
 
@@ -28,6 +29,8 @@ Next, given my experiences with computers, I decided to try programming by takin
 ## Turning Point
 
 Sitting in Spanish class, my teacher Mrs. Cruz accuses me of using Google Translate on my homework assignment and threatens to fail me in front of everyone. I let out an "OH NO!" in a sarcastic tone, which garners laughs from my friends and the rest of the class. This sparked an idea in me that I should create a mobile application for my friends and I to relive this hilarious moment. The [Oh No Button](https://play.google.com/store/apps/details?id=tk.abestudying.ohnobutton) was born. Since I knew basic Java from my previous computer science course and I was aware that Android developers use Java, I set out to create my first Android application. Within a week and many, many tutorials later, I was able to get my first Android application published to the Google Play Store! All my friends at school downloaded the Oh No Button and we'd just joke around with it. I started getting even more downloads from the store listing itself!
+
+[![Oh No Button](/media/ohno.PNG "Oh No Button")](https://play.google.com/store/apps/details?id=tk.abestudying.ohnobutton)
 
 Once I started development on my personal projects, I began to love programming! I went on to develop many more small apps for fun throughout high school, ranging from games, utilities, soundboards, face swapping, and productivity. As I became more skilled, my focus shifted towards problem solving. I began my biggest project at the time working on digitizing my productivity system, heavily inspired by Cal Newport's books. This was my [A to B](https://play.google.com/store/apps/details?id=tk.abestudying.atob) productivity project that acted as a daily planner and goal tracker. After launching the project and driving traffic via reddit, I was able to get my first couple hundred users! At this point, I began to feel I was truly making a positive impact, no matter how small.
 

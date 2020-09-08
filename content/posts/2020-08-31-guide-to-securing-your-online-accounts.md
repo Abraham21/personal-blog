@@ -8,6 +8,7 @@ description: I provide actionable steps for drastically improving your online se
 category: Cybersecurity
 tags:
   - Cybersecurity
+socialImage: "/media/yubikey.jpg"
 ---
 Estimates report that cyber-crime damages are projected to hit $6 trillion dollars by 2021. During the current pandemic and the worldwide shift towards adopting technology, cyber-security is more important than ever! [Summary at the end!](#summary)
 
