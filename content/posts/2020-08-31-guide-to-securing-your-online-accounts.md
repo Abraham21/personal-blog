@@ -10,7 +10,7 @@ tags:
   - Cybersecurity
 socialImage: "/media/yubikey.jpg"
 ---
-Estimates report that cyber-crime damages are projected to hit $6 trillion dollars by 2021. During the current pandemic and the worldwide shift towards adopting technology, cyber-security is more important than ever! [Summary at the end!](#summary)
+Estimates report that cyber-crime damages are projected to hit $6 trillion dollars by 2021. During the current pandemic and the worldwide shift towards adopting technology, cyber-security is more important than ever! In this guide, I'll walk you through actionable steps for substantially improving your online security. [Summary at the end!](#summary)
 
 ## Have you been pwned?
 
