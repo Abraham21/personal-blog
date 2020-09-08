@@ -40,8 +40,8 @@ Since the beginning, I've loved to create and share. As my focus shifted towards
 
 ### TL;DR
 
-* Grew up heavily using technology for creative purposes
-* Tried programming in a computer science course, but hated it
-* Spanish teacher threatens to fail me. Results in me developing the [Oh No Button](https://play.google.com/store/apps/details?id=tk.abestudying.ohnobutton) app. Start to love programming.
-* Leads to the development of many [more Android apps](https://play.google.com/store/apps/developer?id=Abraham+Yepremian) and learning web development
+* Grew up heavily using technology for creative purposes.
+* Tried programming in a computer science course, but hated it.
+* Spanish teacher threatens to fail me. Results in me developing the [Oh No Button](https://play.google.com/store/apps/details?id=tk.abestudying.ohnobutton) app. I start to love programming.
+* Leads to the development of many [more Android apps](https://play.google.com/store/apps/developer?id=Abraham+Yepremian) and learning web development.
 * The experience makes me sure of my decision to pursue software engineering.
