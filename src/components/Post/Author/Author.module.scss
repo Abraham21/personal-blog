@@ -19,7 +19,7 @@
 
   &__form {
     text-align: center;
-    border: 2px solid black;
+    border: 2px solid #000000;
     border-radius: 42px;
     padding: 42px;
 
@@ -33,13 +33,13 @@
     }
     &-label {
       display: block;
-      color: darkslategray;
+      color: #2F4F4F;
       font-size: 18px;
     }
     &-input {
       height: 28px;
       margin-top: 4px;
-      border: 1px solid black;
+      border: 1px solid #000000;
       border-radius: 5px;
       font-weight: 500;
       font-size: 14px;
@@ -56,7 +56,7 @@
     }
     &-button {
       cursor: pointer;
-      background-color: mintcream;
+      background-color: #F5FFFA;
       height: 36px;
       font-size: 18px;
       border-radius: 5px;
