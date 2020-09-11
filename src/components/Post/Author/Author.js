@@ -7,6 +7,11 @@ import { useSiteMetadata } from '../../../hooks';
 const Author = () => {
   const { author } = useSiteMetadata();
 
+  function submitForm() {
+    window.open('https://tinyletter.com/abeyep', 'popupwindow', 'scrollbars=yes,width=800,height=600');
+    return true;
+  }
+
   return (
     <div className={styles['author']}>
       <p className={styles['author__bio']}>
@@ -23,9 +28,9 @@ const Author = () => {
       <form
         action="https://tinyletter.com/abeyep" method="post"
         target="popupwindow"
-        onsubmit="window.open('https://tinyletter.com/abeyep', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true">
+        onSubmit={submitForm}>
         <p>
-          <label for="tlemail">Enter your email address</label>
+          <label htmlFor="tlemail">Enter your email address</label>
         </p>
         <p>
           <input type="text" name="email" id="tlemail" />
