@@ -42,7 +42,6 @@ const Author = () => {
         <input className={styles['author__form-button']} type="submit" value="Subscribe" />
       </form>
     </div>
-
   );
 };
 
