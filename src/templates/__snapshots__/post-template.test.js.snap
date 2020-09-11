@@ -94,6 +94,48 @@ exports[`PostTemplate renders correctly 1`] = `
              on LinkedIn
           </a>
         </p>
+        <form
+          action="https://tinyletter.com/abeyep"
+          className="author__form"
+          method="post"
+          onSubmit={[Function]}
+          target="popupwindow"
+        >
+          <p
+            className="author__form-header"
+          >
+            Let's stay in touch!
+          </p>
+          <p
+            className="author__form-description"
+          >
+            Subscribe to my newsletter for updates.
+          </p>
+          <p>
+            <label
+              className="author__form-label"
+              htmlFor="tlemail"
+            >
+              Email Address
+            </label>
+            <input
+              className="author__form-input"
+              id="tlemail"
+              name="email"
+              type="text"
+            />
+          </p>
+          <input
+            name="embed"
+            type="hidden"
+            value="1"
+          />
+          <input
+            className="author__form-button"
+            type="submit"
+            value="Subscribe"
+          />
+        </form>
       </div>
     </div>
     <div
