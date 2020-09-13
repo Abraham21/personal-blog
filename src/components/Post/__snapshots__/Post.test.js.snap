@@ -119,7 +119,7 @@ exports[`Post renders correctly 1`] = `
             className="author__form-input"
             id="tlemail"
             name="email"
-            type="text"
+            type="email"
           />
         </p>
         <input

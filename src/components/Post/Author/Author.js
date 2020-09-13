@@ -36,7 +36,7 @@ const Author = () => {
         </p>
         <p>
           <label className={styles['author__form-label']} htmlFor="tlemail">Email Address</label>
-          <input className={styles['author__form-input']} type="text" name="email" id="tlemail"/>
+          <input className={styles['author__form-input']} type="email" name="email" id="tlemail"/>
         </p>
         <input type="hidden" value="1" name="embed" />
         <input className={styles['author__form-button']} type="submit" value="Subscribe" />

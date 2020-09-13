@@ -42,7 +42,7 @@
       border: 1px solid #000000;
       border-radius: 5px;
       font-weight: 500;
-      font-size: 14px;
+      font-size: 16px;
       padding-left: 6px;
       padding-right: 6px;
       width: 280px;
@@ -56,12 +56,17 @@
     }
     &-button {
       cursor: pointer;
-      background-color: #F5FFFA;
+      background-color: #F0FFFF;
       height: 36px;
       font-size: 18px;
-      border-radius: 5px;
+      border-radius: 20px;
       padding-left: 14px;
       padding-right: 14px;
+      -webkit-appearance: none;
+
+      &:focus {
+        outline: none;
+      }
     }
   }
 }
