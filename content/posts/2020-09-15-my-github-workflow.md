@@ -16,7 +16,7 @@ I like to follow systems in my work that will prioritize collaboration and proje
 
 ## Branches
 
-When creating a repository, GitHub will set your default branch to the **`main`** branch (previously `master` branch prior to October 1, 2020). My goal is to keep only **deploy-able** and **tested** code in the `main` branch.
+When creating a repository, GitHub will set your default branch to the **`main`** branch (previously **`master`** branch prior to October 1, 2020). My goal is to keep only **deploy-able** and **tested** code in the **`main`** branch.
 
 Next, I will create a new branch called **`develop`** that will be used for current development. This branch will carry my most up to date completed changes. During active development, develop branch will generally have code that is not yet deployed to production.
 
@@ -30,9 +30,9 @@ Feature branches can be removed once work on them is completed and their changes
 
 ## Issues
 
-GitHub issues allow you to keep track of various bugs, tasks, and enhancements related to your project. At the start of every project, I will usually create issues for the various tasks that need to be done. I will create a label called `requirement` that I will apply to these tasks. I will also create a label called `testing` to apply to any testing related tasks. When I find a bug, I will create an issue and label it correctly with the `bug` label. After a team meeting, issues can be assigned to the appropriate developers.
+GitHub issues allow you to keep track of various bugs, tasks, and enhancements related to your project. At the start of every project, I will usually create issues for the various tasks that need to be done. I will create a label called `requirement` that I will apply to these tasks. I will also create a label called `testing` to apply to any testing related tasks. When I find a bug, I will create an issue and label it correctly with the `bug` label. After a team discussion, issues can be assigned to the appropriate developers.
 
-The GitHub issues allow for greater organization and increased collaboration with developers. Issues also allow you to upload photos to give more context, which is very useful when it comes to things like reproducing bugs or design decisions. Moreover, their integration into project boards make project management much easier to tackle.
+The GitHub issues allow for greater organization and increased collaboration with developers. Issues also allow you to upload photos to give more context, which is very useful when it comes to reproducing bugs or making design decisions. Moreover, their integration into project boards make project management much easier to tackle.
 
 ## Project Boards
 
