@@ -46,4 +46,21 @@ For pull requests (PRs), I will describe the changes being made in the PR as wel
 
 To help illustrate my workflow, I have created an example repository and went through the flow from the beginning to a feature being implemented. For this example, I have created a repository for a Tic Tac Toe game.
 
-I named my repository `tic-tac-toe` in all lower case separated by dashes because this naming practice makes navigating in my terminal easier. First, I created a develop branch off of the main branch. Second, I created a project board with the automated kanban flow to track issues. Third, I defined issues for tasks to be completed for the project. Fourth, I created a feature branch off of the main branch, since the main branch should be the source of code that is always deploy-able. Fifth, I moved the issue I was working on to In progress in my kanban board. Sixth, I implemented the feature that my branch was focused on by committing my changes. Seventh, I made a pull request from my feature branch to develop branch while referencing to close the issue I was working on. Eighth, once the PR was reviewed and the code was tested, the PR is merged into the develop branch. This will close the issue at hand and you will see this updated in the automated project board. Ninth, assuming these are all the changes we expect for the next release, I will make a PR from develop into the main branch. Tenth, I will confirm that develop is deploy-able by deploying from develop and checking for success. Eleventh, once develop is deemed deploy-able, we merge develop into the main branch. This completes the life cycle of any feature implementations we had created. Twelfth, you can optionally clean up your feature branches that were merged by deleting them and even tagging the commit history if you would like to keep a reference.
+### Steps
+
+1. I created a repository named `tic-tac-toe` in all lower case separated by dashes because this naming practice makes navigating in my terminal easier.
+2. I created a **develop branch off of the main branch**.
+3. I created a project board with the **automated kanban flow** to track issues.
+4. I defined issues for tasks to be completed for the project.
+5. I created a feature branch off of the main branch, since the main branch should be the source of code that is always deploy-able.
+6. I moved the issue I was working on to In progress in my kanban board.
+7. I implemented the feature that my branch was focused on by committing my changes.
+8. I made a pull request from my feature branch to develop branch while referencing to close the issue I was working on.
+9. Once the PR was reviewed and the code was tested, the PR is merged into the develop branch. This will close the issue at hand and you will see this updated in the automated project board.
+10. Assuming these are all the changes we expect for the next release, I will make a PR from develop into the main branch.
+11. I will confirm that develop is deploy-able by deploying from develop and checking for success.
+12. Once develop is deemed deploy-able, we merge develop into the main branch. This completes the life cycle of any feature implementations we had created.
+13. Optionally clean up feature branches that were merged by deleting them and consider tagging the commit history if you would like to keep a reference.
+14. Repeat steps 5 through 13 indefinitely.
+
+This may seem like a lot of steps, but systems like this will become natural over time! As I become more experienced, my workflow is subject to change; however, following the system above has proven to greatly increase the productivity of my team and I. I hope you learned something from my GitHub workflow that will help you develop software more effectively!
