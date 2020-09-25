@@ -52,8 +52,8 @@ To help illustrate my workflow, I have created an example repository and went th
 2. I created a **develop branch off of the main branch**.
 3. I created a project board with the **automated kanban flow** template to track issues.
 4. I defined issues for tasks to be completed for the project and made sure to assign them to the project board.
-5. I created a feature branch off of the main branch, since the main branch should be the source of code that is always deploy-able.
-6. I moved the issue I was working on to In progress in my kanban board.
+5. I moved the issue I was working on to In progress in my kanban board.
+6. I created a feature branch off of the main branch, since the main branch should be the source of code that is always deploy-able.
 7. I implemented the feature that my branch was focused on by committing my changes.
 8. I made a pull request from my feature branch to develop branch while referencing to close the issue I was working on.
 9. Once the PR was reviewed and the code was tested, the PR is merged into the develop branch. This will close the issue at hand and you will see this updated in the automated project board.
