@@ -36,7 +36,7 @@ The GitHub issues allow for greater organization and increased collaboration wit
 
 ## Project Boards
 
-One of my favorite organizational tools are the integrated project boards in GitHub. I will usually create a project board with the automated kanban template. Then, I will reduce the columns down to only To do, In progress, and Done. I will also make sure that all existing issues and any new issues are linked to this project board. The issues will automatically be inserted into the To do column. When I am working on an issue, I will make sure I have myself assigned and I will drag the issue to the In progress column. When the issue is closed, it will automatically be moved to the Done column. This flow is simple and lends itself to quickly completing the tasks at hand in an organized manner. This is a powerful technique when paired with pull requests and issue references.
+One of my favorite organizational tools are the integrated project boards in GitHub. I will usually create a project board with the automated kanban template. This will give me three columns: To do, In progress, and Done. I will also make sure that all existing issues and any new issues are linked to this project board. The issues will automatically be inserted into the To do column. When I am working on an issue, I will make sure I have myself assigned and I will drag the issue to the In progress column. When the issue is closed, it will automatically be moved to the Done column. This flow is simple and lends itself to quickly completing the tasks at hand in an organized manner. This is a powerful technique when paired with pull requests and issue references.
 
 ## Pull Requests
 
@@ -50,8 +50,8 @@ To help illustrate my workflow, I have created an example repository and went th
 
 1. I created a repository named `tic-tac-toe` in all lower case separated by dashes because this naming practice makes navigating in my terminal easier.
 2. I created a **develop branch off of the main branch**.
-3. I created a project board with the **automated kanban flow** to track issues.
-4. I defined issues for tasks to be completed for the project.
+3. I created a project board with the **automated kanban flow** template to track issues.
+4. I defined issues for tasks to be completed for the project and made sure to assign them to the project board.
 5. I created a feature branch off of the main branch, since the main branch should be the source of code that is always deploy-able.
 6. I moved the issue I was working on to In progress in my kanban board.
 7. I implemented the feature that my branch was focused on by committing my changes.
