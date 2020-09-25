@@ -56,10 +56,10 @@ To help illustrate my workflow, I have created an example repository and went th
 6. I created a feature branch off of the main branch, since the main branch should be the source of code that is always deploy-able.
 7. I implemented the feature that my branch was focused on by committing my changes.
 8. I made a pull request from my feature branch to develop branch while referencing to close the issue I was working on.
-9. Once the PR was reviewed and the code was tested, the PR is merged into the develop branch. This will close the issue at hand and you will see this updated in the automated project board.
+9. Once the PR was reviewed and the code was tested, the PR is merged into the develop branch.
 10. Assuming these are all the changes we expect for the next release, I will make a PR from develop into the main branch.
 11. I will confirm that develop is deploy-able by deploying from develop and checking for success.
-12. Once develop is deemed deploy-able, we merge develop into the main branch. This completes the life cycle of any feature implementations we had created.
+12. Once develop is deemed deploy-able, we merge develop into the main branch. This completes the life cycle of any feature implementations we had created. We will see the issue closed and moved to Done in the automated project board.
 13. Optionally clean up feature branches that were merged by deleting them and consider tagging the commit history if you would like to keep a reference.
 14. Repeat steps 5 through 13 indefinitely.
 
