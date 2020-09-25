@@ -40,7 +40,7 @@ One of my favorite organizational tools are the integrated project boards in Git
 
 ## Pull Requests
 
-For pull requests (PRs), I will describe the changes being made in the PR as well as linking any issues that will be closed. You can have an issue closed when a PR is merged into the default branch by using a keyword like "closes" or "resolves" and selecting the issue using the # key. For example, my PR from **`develop`** to **`main`** would include something like "Closes #1" if I want the issue with the key #1 to be closed. I also like to include screenshots of the changes if applicable along with instructions for testing the changes. This can be further streamlined if you setup a template for pull requests that developers should follow. Moreover, you can look into setting up GitHub Actions if you would like to automate builds, unit tests, and deployments.
+Pull requests (PRs) allow other developers to review and approve your work before merging changes. In my PRs, I describe changes being made and link relevant issues. You can have an issue closed when a PR is merged into the default branch by using a keyword like "closes" or "resolves" and selecting the issue using the # key. For example, my PR from **`develop`** to **`main`** would include something like "Closes #1" if I want the issue with the key #1 to be closed. I also like to include screenshots of the changes if applicable along with instructions for testing the changes. This can be further streamlined if you setup a template for pull requests that developers should follow. Moreover, you can look into setting up GitHub Actions if you would like to automate builds, unit tests, and deployments.
 
 ## Putting It All Together
 
