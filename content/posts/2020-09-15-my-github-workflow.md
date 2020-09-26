@@ -49,17 +49,44 @@ I mainly apply the following workflow in large projects while collaborating in a
 ### Steps
 
 1. I created a repository named **`tic-tac-toe`** in all lower case separated by dashes because this naming practice makes navigating in my terminal easier.
+
+![Repository Name](/media/github-workflow/step1.png "Repository Name")
+
 2. I created a **develop** branch off of the **main** branch.
+
+![Branches](/media/github-workflow/step2.PNG "Branches")
+
 3. I created a project board with the **automated kanban flow** template to track issues.
+
+![Project Board Template](/media/github-workflow/step3.PNG "Project Board Template")
+
 4. I defined issues for tasks to be completed for the project and made sure to link them to the project board.
 5. I moved the issue I was working on to the In progress column in my kanban board.
+
+![Project Board](/media/github-workflow/step5.PNG "Project Board")
+
 6. I created a **feature branch** off of the **main** branch, since the **main** branch should be the source of code that is always deploy-able.
+
+![Branches](/media/github-workflow/step6.PNG "Branches")
+
 7. I implemented the feature that my branch was focused on by committing my changes.
 8. I made a pull request from my **feature branch** to **develop** branch.
+
+![PR from Feature Branch to Develop](/media/github-workflow/step8.png "PR from Feature Branch to Develop")
+
 9. Once the PR was reviewed and the code was tested, the PR is merged into the **develop** branch.
-10. Assuming these are all the changes we expect for the next release, I will make a PR from **develop** into the **main** branch making sure to reference the issues that I want closed upon merging.
+
+![PR merged](/media/github-workflow/step9.png "PR merged")
+
+10. Assuming these are all the changes we expect for the next release, I will make a PR from **develop** into the **main** branch making sure to link the issues that I want closed upon merging.
+
+![PR from Develop to Main](/media/github-workflow/step10.png "PR from Develop to Main")
+
 11. I will confirm that **develop** is deploy-able by deploying from **develop** and checking for success.
 12. Once **develop** is deemed deploy-able and the PR is approved, we merge **develop** into the **main** branch. This completes the life cycle of any feature implementations we had created. We will see both the issue and PR closed and moved to Done in the automated project board.
+
+![PR and Issue Closed](/media/github-workflow/step12.png "PR and Issue Closed")
+
 13. Optionally clean up feature branches that were merged by deleting them and consider tagging the commit history if you would like to keep a reference.
 14. Repeat steps 5 through 13 indefinitely.
 
