@@ -2,7 +2,7 @@
 template: post
 title: My GitHub Workflow
 slug: github-workflow
-draft: true
+draft: false
 date: 2020-09-25T14:58:22.005Z
 description: I describe the development process I follow for improved productivity when
   working on projects with GitHub.
@@ -11,6 +11,7 @@ tags:
   - Project Management
   - Version Control
   - GitHub
+socialImage: "/media/github-workflow/step5.PNG"
 ---
 I like to follow systems in my work that will prioritize collaboration and project organization. With GitHub, this means making the most of well-defined branches, issues, project boards, and pull requests.
 
@@ -44,7 +45,7 @@ Pull requests (PRs) allow other developers to review and approve your work befor
 
 ## Putting It All Together
 
-I mainly apply the following workflow in large projects while collaborating in a team. However, to help illustrate my workflow, I have created an example repository and went through the flow from the beginning to a feature being implemented. For this example, I have created a repository for a Tic Tac Toe game.
+I mainly apply the following workflow in large projects while collaborating in a team. However, to help illustrate my workflow, I have created an example repository and went through the flow from the beginning to a single feature being implemented. For this example, I have created a repository for a Tic Tac Toe game.
 
 ### Steps
 
