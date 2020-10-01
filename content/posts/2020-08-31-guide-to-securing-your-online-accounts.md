@@ -75,10 +75,10 @@ For your mobile device, ensure you have setup authentication (face ID, fingerpri
 
 For PCs, be careful about websites you visit and files you download. Moreover, you should use an anti-virus software such as Windows Defender, BitDefender, Avira, or Malwarebytes.
 
-Watch out for phishing scams when browsing the web or checking emails. If you get a suspicious email, check the sender address for a clue. Be careful not to click any links or download any attachments if you suspect an email for phishing.\
+Watch out for phishing scams when browsing the web or checking emails. If you get a suspicious email, check the exact sender address and why it came for a clue. Be careful not to click any links or download any attachments if you suspect an email for phishing.\
 In short, when browsing the web and you feel suspicion, check the web url for spoofing and check if the site has HTTPS enabled. Keep in mind that many phishing websites now have SSL / HTTPS enabled, so you must carefully check the urls.
 
-Moreover, keep in mind that using public WiFi opens you up to security exploits when you browse on non-secure websites (no SSL/TLS/HTTPS). To help prevent data interception and gain peace of mind when using public WiFi, consider using a VPN. A VPN is a virtual private network that encrypts and masks your data as it moves from one place to another. Additionally, you can also install a web browser extension called [HTTPS Everywhere](https://www.eff.org/https-everywhere) that will automatically switch thousands of websites from an insecure "http" connection to a secure "https" connection.
+Moreover, keep in mind that using public WiFi opens you up to security exploits when you browse on non-secure websites (no SSL/TLS/HTTPS). To help prevent data interception and gain peace of mind when using public WiFi, consider using a VPN. A VPN is a virtual private network that encrypts and masks your data as it moves from one place to another. Additionally, you can install a web browser extension called [HTTPS Everywhere](https://www.eff.org/https-everywhere) that will automatically switch thousands of websites from an insecure "http" connection to a secure "https" connection.
 
 Lastly, keep your software updated and your data backed up.
 
