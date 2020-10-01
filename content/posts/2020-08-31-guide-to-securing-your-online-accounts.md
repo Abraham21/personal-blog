@@ -1,14 +1,14 @@
 ---
 template: post
-title: Guide to Securing Your Online Accounts
 slug: cybersecurity-guide
 draft: false
-date: 2020-08-31T03:58:32.882Z
+socialImage: /media/yubikey.jpg
+title: Guide to Securing Your Online Accounts
+date: 2020-09-08T03:58:00.000Z
 description: I provide actionable steps for drastically improving your online security.
 category: Cybersecurity
 tags:
   - Cybersecurity
-socialImage: "/media/yubikey.jpg"
 ---
 Estimates report that cyber-crime damages are projected to hit $6 trillion dollars by 2021. During the current pandemic and the worldwide shift towards adopting technology, cyber-security is more important than ever! In this guide, I'll walk you through actionable steps for substantially improving your online security. [Summary at the end!](#summary)
 
@@ -27,7 +27,7 @@ If you found any compromised accounts using the first step, immediately change t
 
 Now, you might be wondering what constitutes a good password. The two most important rules to follow are to ***never reuse passwords*** and to always ***use unique, strong passwords***.
 
-The best passwords are long, using a mix of characters, hard to guess, and hard to crack. Some people create their own systems for generating passwords, using the combination of a secret phrase and the website name. The problem with such password algorithms is that they are either too simple to provide the protection you really need or too complex to the point they become a pain to use.
+The best passwords are long, using a mix of characters, hard to guess, and hard to crack. Aim to create passwords that are ***alphanumeric*** and at least ***16 characters long***. Some people create their own systems for generating passwords, using the combination of a secret phrase and the website name. The problem with such password algorithms is that they are either too simple to provide the protection you really need or too complex to the point they become a pain to use.
 
 The solution is to ***use a password manager*** that will randomly generate secure passwords and safely store them. Using a password manager allows you to only remember one password. The password manager will encrypt a database of your account passwords, secured by your master password.
 
@@ -35,7 +35,7 @@ From my research, I recommend using [Bitwarden](https://bitwarden.com/) due to i
 
 Using a password manager, it's incredibly important to choose a new password that is hard to guess or crack. If the master password is compromised, your entire list of passwords can be compromised so please put some time into deciding your master password. Moreover, if you forget your master password, you may be locked out of your password manager causing you to lose all your passwords.
 
-After you've setup the password manager, use the built in password generation to change and store your passwords. Keep your master password, email passwords, and computer passwords out of the password manager. This is a laborious process, but you should only have to remember 3-4 strong passwords when you are done. If you are a Google user, you can go ahead and remove your passwords from the [Google password manager](https://passwords.google.com/) since you don't want all your passwords to be compromised if someone accesses your email.
+After you've setup the password manager, use the built in password generation to change and store your passwords. Keep your master password, email passwords, and computer passwords out of the password manager. This is a laborious process, but you should only have to remember 3-4 strong passwords when you are done. If you are a Google user, you can go ahead and remove your passwords from the [Google password manager](https://passwords.google.com/) since you don't want all your passwords to be compromised if someone accesses your email. For further improved security, consider changing your passwords periodically.
 
 ## 2 Factor Authentication
 
@@ -78,7 +78,7 @@ For PCs, be careful about websites you visit and files you download. Moreover, y
 Watch out for phishing scams when browsing the web or checking emails. If you get a suspicious email, check the sender address for a clue. Be careful not to click any links or download any attachments if you suspect an email for phishing.\
 In short, when browsing the web and you feel suspicion, check the web url for spoofing and check if the site has HTTPS enabled. Keep in mind that many phishing websites now have SSL / HTTPS enabled, so you must carefully check the urls.
 
-Moreover, keep in mind that using public WiFi opens you up to security exploits when you browse on non-secure websites (no SSL/TLS/HTTPS). To help prevent data interception and gain peace of mind when using public WiFi, consider using a VPN. A VPN is a virtual private network that encrypts and masks your data as it moves from one place to another.
+Moreover, keep in mind that using public WiFi opens you up to security exploits when you browse on non-secure websites (no SSL/TLS/HTTPS). To help prevent data interception and gain peace of mind when using public WiFi, consider using a VPN. A VPN is a virtual private network that encrypts and masks your data as it moves from one place to another. Additionally, you can also install a web browser extension called [HTTPS Everywhere](https://www.eff.org/https-everywhere) that will automatically switch thousands of websites from an insecure "http" connection to a secure "https" connection.
 
 Lastly, keep your software updated and your data backed up.
 
