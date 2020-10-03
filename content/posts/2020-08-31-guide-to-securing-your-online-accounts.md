@@ -97,4 +97,4 @@ Lastly, keep your software updated and your data backed up.
 11. Use anti-virus and keep your software up to date.
 12. Learn to avoid phishing.
 
-The key ideas in the guide are using a password manager with security keys, 2FA, protecting your email addresses (advanced protection program for gmail), and setting up monitoring for your accounts. Remember, while it may be impossible to make you unhackable, the goal is to improve your security to the point that potential attackers will give up and move on to the next target. I hope you found this guide useful!
+The key ideas in the guide are using a password manager with security keys, 2FA, protecting your email addresses (advanced protection program for gmail), and setting up monitoring for your accounts. Remember, while it may be impossible to make you unhackable, the goal is to improve your security to the point that potential attackers will give up and move on to the next target. If you would like to learn more about personal cybersecurity, consider picking up the book [Cyber Smart](https://www.amazon.com/gp/product/B07L8RLNWD) by Bart R. McDonough. I hope you found this guide useful!
