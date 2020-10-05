@@ -8,7 +8,7 @@ socialImage: "/media/work.jpg"
 
 ## The Walt Disney Company (May 2019 - Present)
 
-I'm a **software engineer** working on guest experience technologies for Disney Parks & Resorts. I've cultivated a wide range of skillsets by working on multiple projects that impact our cast and guests daily. Most notably, I've gained experience in full-stack development using technologies like **Java (Spring Boot), JavaScript, Swift (iOS development), databases, and much more**. Moreover, I've had the pleasure to work with CPP's computer science club, where I'm a former President, on Disney recruiting events.
+I'm a **software engineer** working on guest experience technologies for Disney Parks & Resorts. I've cultivated a wide range of skillsets by working on multiple projects that impact our cast and guests daily. Most notably, I've gained experience in full-stack development using technologies like **Java (Spring Boot), JavaScript, Swift (iOS development), databases, and much more**. Moreover, I've had the pleasure to work with CPP's computer science club, where I'm a [former President](https://www.linkedin.com/posts/ayepremian_during-the-last-school-year-i-had-the-great-activity-6582422811602759680-8Yua), on Disney recruiting events.
 
 I started at Disney as a summer intern, but was brought back for part-time work as an Associate Software Engineer while I was finishing my last semester at CPP. Upon graduation, I became a full-time Software Engineer!
 
