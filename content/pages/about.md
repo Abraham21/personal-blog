@@ -4,7 +4,7 @@ template: "page"
 socialImage: "/media/grad.jpg"
 ---
 
-Hello, I am Abraham Yepremian. I am a Software Engineer at Disneyland in Anaheim, CA. I am skilled in full stack development, currently working on guest experiences technology for Disneyland, Walt Disney World, and Disneyland Paris.
+Hello, I am Abraham Yepremian and I am a Software Engineer at Disneyland in Anaheim, CA. I am skilled in full stack development, currently working on guest experiences technology for Disneyland, Walt Disney World, and Disneyland Paris.
 
 ![Graduation Photo](/media/grad.jpg)
 

@@ -28,8 +28,10 @@ const Contacts = ({ contacts }: Props) => (
     </ul>
     <a
       className={styles['contacts__resume-button']}
-      href="/abraham-yepremian-resume.pdf">
-        Resume
+      href="/abraham-yepremian-resume.pdf"
+      target="_blank"
+    >
+      Resume
     </a>
   </div>
 );

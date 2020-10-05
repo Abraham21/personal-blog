@@ -217,6 +217,7 @@ exports[`Sidebar renders correctly 1`] = `
       <a
         className="contacts__resume-button"
         href="/abraham-yepremian-resume.pdf"
+        target="_blank"
       >
         Resume
       </a>
