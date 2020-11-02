@@ -45,14 +45,14 @@ module.exports = {
       rss: '',
       vkontakte: '',
       linkedin: 'ayepremian',
-      instagram: 'theabeman',
+      instagram: '',
       line: '',
       gitlab: '',
       weibo: '',
       codepen: '',
       youtube: '',
       soundcloud: '',
-      medium: '',
+      medium: '@abeyepremian',
     }
   }
 };
