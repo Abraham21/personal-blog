@@ -14,8 +14,8 @@ socialImage: "/media/zeitplan-ttr.png"
 
 ## Zeitplan - Daily Planner
 
-[![Zeitplan Things to Remember Page](/media/zeitplan-ttr.png "Zeitplan Things to Remember Page")](https://cs480-projects.github.io/teams-fall2018/synchronizedBroncos/index.html)
-[Visit Website](https://cs480-projects.github.io/teams-fall2018/synchronizedBroncos/index.html), [View Source Code](https://github.com/synchronizedBroncos/zeitplan), [Watch Demo](https://youtu.be/piDXvITGJ6U)
+[![Zeitplan Things to Remember Page](/media/zeitplan-ttr.png "Zeitplan Things to Remember Page")](https://zeitplan.me/)
+[Visit Website](https://zeitplan.me/), [View Source Code](https://github.com/synchronizedBroncos/zeitplan), [Watch Demo](https://youtu.be/piDXvITGJ6U?t=3)
 
 Zeitplan is an all in one productivity tool with reminders, daily scheduling, logs, and a Pomodoro timer for efficiency. I cofounded this project with classmates at CPP and lead development with the MEAN technology stack. We built it as a progressive web app with a mobile first design and we deployed it on AWS.
 
