@@ -5,7 +5,7 @@ socialImage: /media/grad.jpg
 slug: about
 draft: false
 ---
-Hello, I am Abraham Yepremian and I am a tech entrepreneur in Southern California. I am currently working on my company [BlockMotive](https://blockmotive.com/), which aims to innovate in the blockchain and NFT space.  Previously, I worked as a Software Engineer at Disney where I built guest experiences technology for Disneyland, Walt Disney World, and Disneyland Paris.
+Hello, I am Abraham Yepremian and I am a tech entrepreneur in Southern California. I am currently working on my company [BlockMotive](https://blockmotive.com/), which aims to innovate with web3 technology and NFTs in particular.  Previously, I worked as a Software Engineer at Disney where I built guest experiences technology for Disneyland, Walt Disney World, and Disneyland Paris.
 
 ![Graduation Photo](/media/grad.jpg)
 
