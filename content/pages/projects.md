@@ -6,11 +6,19 @@ socialImage: "/media/zeitplan-ttr.png"
 
 ### Table of contents
 
++ [Laser Eyes Twitter Bot](#laser-eyes-twitter-bot)
 + [Zeitplan Daily Planner - Web Application](#zeitplan---daily-planner)
 + [Machine Learning Tinder Bot - Python Program](#machine-learning-tinder-bot)
 + [Vibe - Mobile Application](#vibe---mobile-application)
 + [Hackathon Projects](#hackathon-projects)
 + [Android Applications](#android-applications)
+
+## Laser Eyes Twitter Bot
+
+[![Laser Eyes Bot](/media/lasereyesbot.jpeg "Laser Eyes Bot")](https://lasereyesbot.com/)
+[Visit Website](https://lasereyesbot.com/), [Visit Twitter](https://twitter.com/LaserEyesBot), [Visit Product Hunt](https://www.producthunt.com/posts/laser-eyes-bot)
+
+Laser Eyes Bot is a Twitter bot that lets you automatically add laser eyes to your Twitter profile photo with one tweet. When triggered, the bot will pull the tweeter's profile picture and run it through a machine learning algorithm to detect faces and eyes. Any detected eyes will be turned into laser eyes and the resulting photo will be tweeted out! The bot has made over 30,000 impressions on Twitter and dished out over 70 laser eyes photos. I built this with Node.js, Python, and OpenCV and hosted it on a Raspberry Pi.
 
 ## Zeitplan - Daily Planner
 

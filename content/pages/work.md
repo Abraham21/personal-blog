@@ -6,11 +6,15 @@ socialImage: "/media/work.jpg"
 
 <p style="margin:0 0 -1.25rem 0;">For more details, view my <a href="/abraham-yepremian-resume.pdf" target="_blank">Resume</a> or my <a href="https://www.linkedin.com/in/ayepremian/" target="_blank">LinkedIn</a> experience section!</p>
 
-## The Walt Disney Company (May 2019 - Present)
+## BlockMotive (August 2021 - Present)
 
-I'm a **software engineer** working on guest experience technologies for Disney Parks & Resorts. I've cultivated a wide range of skillsets by working on multiple projects that impact our cast and guests daily. Most notably, I've gained experience in full-stack development using technologies like **Java (Spring Boot), JavaScript, Swift (iOS development), databases, and much more**. Moreover, I've had the pleasure to work with CPP's computer science club, where I'm a [former President](https://www.linkedin.com/posts/ayepremian_during-the-last-school-year-i-had-the-great-activity-6582422811602759680-8Yua), on Disney recruiting events.
+I am the **Founder & CEO** of [**BlockMotive**](https://blockmotive.com/), a company focused on innovating with web3 and NFT technology. Our flagship NFT project will be announced soon!
 
-I started at Disney as a summer intern, but was brought back for part-time work as an Associate Software Engineer while I was finishing my last semester at CPP. Upon graduation, I became a full-time Software Engineer!
+## The Walt Disney Company (May 2019 - August 2021)
+
+I was a **Software Engineer** working on guest experience technologies for Disney Parks & Resorts. I cultivated a wide range of skillsets by working on multiple projects that impact our cast and guests daily. Most notably, I've gained experience in full-stack development using technologies like **Kotlin, Java, Spring Boot, Node.js, Angular, TypeScript, JavaScript, Swift, databases, and much more**. Moreover, I've had the pleasure to work with CPP's computer science club, where I'm a [former President](https://www.linkedin.com/posts/ayepremian_during-the-last-school-year-i-had-the-great-activity-6582422811602759680-8Yua), on Disney recruiting events.
+
+My journey at Disney began as a summer intern, but I was brought back for part-time work as an Associate Software Engineer while I was finishing my last semester at CPP. Upon my graduation, I became a full-time Software Engineer. My experience at Disney was absolutely incredible!
 
 ## USTOSHOP.com (May 2018 - January 2019)
 

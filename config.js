@@ -35,12 +35,12 @@ module.exports = {
   author: {
     name: 'Abraham Yepremian',
     photo: '/photo.jpg',
-    bio: 'Software Engineer @ Disney. Interested in full stack development, software scalability, fitness, and finance.',
+    bio: 'Founder & CEO at BlockMotive. Interested in full stack development, web3 technology, software scalability, fitness, and finance.',
     contacts: {
       email: '',
       facebook: '',
       telegram: '',
-      twitter: '',
+      twitter: 'abeyepremian',
       github: 'Abraham21',
       rss: '',
       vkontakte: '',
@@ -52,7 +52,7 @@ module.exports = {
       codepen: '',
       youtube: '',
       soundcloud: '',
-      medium: '@abeyepremian',
+      medium: '',
     }
   }
 };
