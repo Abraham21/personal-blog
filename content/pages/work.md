@@ -8,7 +8,7 @@ socialImage: "/media/work.jpg"
 
 ## BlockMotive (August 2021 - Present)
 
-I am the **Founder & CEO** of [**BlockMotive**](https://blockmotive.com/), a company focused on innovating with web3 and NFT technology. Our flagship NFT project will be announced soon!
+I am a **Founder & Web3 Software Engineer** at [**BlockMotive**](https://blockmotive.com/), a full service software development agency where we combine innovative ideas with cutting-edge technology to create impactful solutions for our clients.
 
 ## The Walt Disney Company (May 2019 - August 2021)
 

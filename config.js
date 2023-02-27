@@ -35,7 +35,7 @@ module.exports = {
   author: {
     name: 'Abraham Yepremian',
     photo: '/photo.jpg',
-    bio: 'Founder & CEO at BlockMotive. Interested in full stack development, web3 technology, software scalability, fitness, and finance.',
+    bio: 'Founder & Web3 Software Engineer at BlockMotive. Interested in full stack development, cutting-edge technologies, software scalability, fitness, and finance.',
     contacts: {
       email: '',
       facebook: '',
