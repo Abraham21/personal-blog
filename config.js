@@ -40,7 +40,7 @@ module.exports = {
       email: '',
       facebook: '',
       telegram: '',
-      twitter: 'abeyepremian',
+      twitter: 'AbeMuun',
       github: 'Abraham21',
       rss: '',
       vkontakte: '',
